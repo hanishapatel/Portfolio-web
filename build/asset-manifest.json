@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio-web/static/css/main.4816d000.css",
+    "main.js": "/Portfolio-web/static/js/main.da625d88.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio-web/static/js/453.1407b060.chunk.js",
+    "static/media/fake-news.png": "/Portfolio-web/static/media/fake-news.ab57953a8c5fc5c1ee13.png",
+    "static/media/mu.png": "/Portfolio-web/static/media/mu.90b09384e9ea8e917dd0.png",
+    "static/media/profile.png": "/Portfolio-web/static/media/profile.d40e5a5acd1c7528460b.png",
+    "static/media/schoolaid.png": "/Portfolio-web/static/media/schoolaid.b41510c169b3beba2cf1.png",
+    "static/media/movie.png": "/Portfolio-web/static/media/movie.e64d5ef09eef1621f802.png",
+    "static/media/ceramic.png": "/Portfolio-web/static/media/ceramic.181cc2c8193d8c550e1c.png",
+    "static/media/ascii.png": "/Portfolio-web/static/media/ascii.323ef0fd9ea77db79490.png",
+    "static/media/uhcl.png": "/Portfolio-web/static/media/uhcl.1fa269a0c72e88c74ca2.png",
+    "static/media/calca.png": "/Portfolio-web/static/media/calca.7c7c1cdab9a4b36e76d6.png",
+    "static/media/railway.png": "/Portfolio-web/static/media/railway.c74f55cee554d2d27c6f.png",
+    "static/media/ipserlab.png": "/Portfolio-web/static/media/ipserlab.6dd8c376a0350a5088b6.png",
+    "static/media/selogo.png": "/Portfolio-web/static/media/selogo.ed2b8f6d53d27e9d2252.png",
+    "static/media/logo.svg": "/Portfolio-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio-web/index.html",
+    "main.4816d000.css.map": "/Portfolio-web/static/css/main.4816d000.css.map",
+    "main.da625d88.js.map": "/Portfolio-web/static/js/main.da625d88.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio-web/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4816d000.css",
+    "static/js/main.da625d88.js"
+  ]
+}
