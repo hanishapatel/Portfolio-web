@@ -1,4 +1,4 @@
-import image from '../images/profile.png';
+import image from '../images/profile1.png';
 
 export default function IntroImage(){
     return (
